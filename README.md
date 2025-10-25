@@ -1,4 +1,4 @@
-# Thejas Venan — Mechatronics Portfolio
+# Thejasvenan — Mechatronics Portfolio
 
 This repository contains a GitHub Pages-ready static portfolio site for a Mechatronics engineer. It includes a responsive template (HTML/CSS) and an SVG illustration.
 
